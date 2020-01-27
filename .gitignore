@@ -1,0 +1,4 @@
+*.DS_Store
+.ipyng_checkpoints/
+img/
+*.csv
